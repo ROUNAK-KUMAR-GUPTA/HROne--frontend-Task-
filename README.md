@@ -45,7 +45,7 @@ An interactive **React + Ant Design** tool to dynamically build and visualize JS
 
 ## 🙋‍♂ About Me
 
-*Roushan Kumar Gupta*
+*Rounak Kumar Gupta*
 👨‍💻 B.Tech CSE | Passionate about Full Stack & AI
 📧 Email: [rounakgupta029@gmail.com](rounakgupta029@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/rounak-kumar-b37a29257/)
